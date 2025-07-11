@@ -1,4 +1,5 @@
 body {
+  background-color: blue;
   display: flex;
   text-align: center;
   justify-content: center;
