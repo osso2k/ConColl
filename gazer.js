@@ -9,4 +9,5 @@ function addTask() {
     newTask.textContent = input.value
     listC.append(newTask)
     input.value = ""
+    console.log("Day1")
 }
